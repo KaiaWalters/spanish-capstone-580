@@ -8,19 +8,22 @@
           <button @click="topFunction()" id="myBtn" title="Go to top">
             <i class="fas fa-arrow-up"></i>
           </button>
-          <div>
+
+           <div>
             <div class="col-12 col-12-medium">
               <header class="major">
                 <h2 class="m13">
                   Camila de la Vega Maldonado
                 </h2>
               </header>
-              <p> Intérprete | Transcreadora | Traductora | Escritora</p>
+              <p>Intérprete | Transcreadora | Traductora | Escritora</p>
               <img style="border: 2px solid black; height: 400px; width: 400px; margin-bottom:30px; " src="../assets/css/images/Camila.jpeg" alt="">
-              <a href="mailto:me@camiladelavegamaldonado.com" class="button wide primary" target="_blank">Learn More</a>
               <p>fuerza. camila se presenta al mundo con una fuerza en color, auténtica y creativa. su arte se nutre de su práctica de traducción y transcreación con el inglés, el español y todos sus dialectos desviados.como facilitadora de espacios con mente intencional y de principiante, defiende un mundo en el que el cambio, el crecimiento y la posibilidad no se buscan, sino que se afirman con vigilancia a través de su trabajo. </p>
+              <a href="mailto:me@camiladelavegamaldonado.com" class="button wide primary" target="_blank">Learn More</a>
             </div>
           </div>
+
+
         </div>
       </section>
       <!-- Two -->
@@ -83,10 +86,10 @@
       <section id="four" class="main style1 special">
         <div class="container">
           <header class="major">
-            <h2>WANT TO CONNECT?</h2>
+            <h2>Conectémonos?</h2>
           </header>
           <ul class="actions special">
-            <li><a href="mailto:me@camiladelavegamaldonado.com" class="button wide primary" target="_blank">Contact Me</a></li>
+            <li><a href="mailto:me@camiladelavegamaldonado.com" class="button wide primary" target="_blank">Ponte en Contacto</a></li>
           </ul>
         </div>
       </section>
