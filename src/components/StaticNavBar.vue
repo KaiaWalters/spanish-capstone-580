@@ -137,7 +137,7 @@ export default {
     }
 
     #navbar {
-        background-color: #f6efd8 !important;
+        background-color: #EDD3C4 !important;
         padding: 20px !important; 
     }
 

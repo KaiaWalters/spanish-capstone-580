@@ -17,7 +17,7 @@
                 </h2>
               </header>
               <p>Intérprete | Transcreadora | Traductora | Escritora</p>
-              <img style="border: 2px solid black; height: 400px; width: 400px; margin-bottom:30px; " src="../assets/css/images/Camila.jpeg" alt="">
+              <img style="border: 4px solid #704a28; height: 400px; width: 400px; margin-bottom:30px; " src="../assets/css/images/Camila.jpeg" alt="">
               <p>fuerza. camila se presenta al mundo con una fuerza en color, auténtica y creativa. su arte se nutre de su práctica de traducción y transcreación con el inglés, el español y todos sus dialectos desviados.como facilitadora de espacios con mente intencional y de principiante, defiende un mundo en el que el cambio, el crecimiento y la posibilidad no se buscan, sino que se afirman con vigilancia a través de su trabajo. </p>
               <a style="display:block; width:100px; margin:0 auto;" href="mailto:me@camiladelavegamaldonado.com" class="button wide primary" target="_blank">Learn More</a>
             </div>
@@ -209,8 +209,8 @@ body {
 .button.primary {
   background-color: white;
   box-shadow: none !important;
-  color: #ea8700 !important;
-  border: 2px solid #ea8700 ;
+  color: #704a28 !important;
+  border: 2px solid #704a28;
   font-family: "Josefin Sans" !important;
 }
 input[type="submit"].primary:hover,
@@ -245,7 +245,7 @@ button.primary:active,
   font-family: "Josefin Sans" !important;
 }
 .main.style2 header.major:after {
-  background-color: #ea8700;
+  background-color: #704a28;
 }
 .main.style2 .button.primary {
   background-color: #ea8700;
@@ -258,7 +258,7 @@ button.primary:active,
   color: #ea8700 !important;
 }
 header.major:after {
-  background-color: white;
+  background-color: #704a28;
 }
 #one {
   padding-bottom: 2em;
@@ -299,8 +299,8 @@ header.major:after {
   bottom: 20px;
   right: 30px;
   z-index: 99;
-  background-color:#ea8700;
-  border: 2px solid #ea8700;
+  background-color:#7765E3;
+  border: 2px solid #7765E3;
   color: white;
   cursor: pointer;
   padding: 5px; 
@@ -308,8 +308,8 @@ header.major:after {
 }
 
 #myBtn:hover {
-  background-color:#fcda02;
-  border: 2px solid white; 
+ background-color:#3B60E4;
+ border: 2px solid white; 
 }
 #myBtn i:hover {
   color:white; 
@@ -332,7 +332,7 @@ header.major:after {
 }
 
 #volunteerBanner router-link span :hover {
-  color: yellow !important;
+   background-color:#3B60E4;
 }
 
 #volunteerBanner div {

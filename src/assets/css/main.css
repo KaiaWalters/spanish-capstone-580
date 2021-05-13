@@ -2959,26 +2959,25 @@ input, select, textarea {
 
 		.main.style1 {
 			background-color: white;
-			color: #100a0d
-		
+			color: #403233
 		}
 
 		.main.style1 .major .m13 {
-			color: #100a0d !important;
+			color: #403233 !important;
 
 		}
 
 		.main.style1.special h2 {
-			color: #100a0d
+			color: #403233
 		}
 
 		.main.style1.special header.major:after{
-			background: #100a0d
+			background: #403233
 		
 		}
 
 		.issue_header {
-			color: #100a0d;
+			color: #403233;
 		}
 
 		.main.style2 {

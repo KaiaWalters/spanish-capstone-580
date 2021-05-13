@@ -16,7 +16,7 @@
                 </h2>
               </header>
               <p>Interpreter | Transcreator | Translator | Writer</p>
-              <img style="border: 2px solid black; height: 400px; width: 400px; margin-bottom:30px; " src="../assets/css/images/Camila.jpeg" alt="">
+              <img style="border: 4px solid #704a28; height: 400px; width: 400px; margin-bottom:30px; " src="../assets/css/images/Camila.jpeg" alt="">
               <p>force. camila meets the world with colorful authentic and creative force. their art is grounded in their translation and transcreation practice with english, spanish, and all of their deviant dialects. as a facilitator of spaces with intentionality and a beginner mind, they stand for a world where change, growth and possibility are not sought but vigilantly upheld through their work.</p>
               <a href="mailto:me@camiladelavegamaldonado.com" class="button wide primary" target="_blank">Learn More</a>
             </div>
@@ -206,8 +206,8 @@ body {
 .button.primary {
   background-color: white;
   box-shadow: none !important;
-  color: #ea8700 !important;
-  border: 2px solid #ea8700 ;
+  color: #704a28 !important;
+  border: 2px solid #704a28 ;
   font-family: "Josefin Sans" !important;
 }
 input[type="submit"].primary:hover,
@@ -296,8 +296,8 @@ header.major:after {
   bottom: 20px;
   right: 30px;
   z-index: 99;
-  background-color:#ea8700;
-  border: 2px solid #ea8700;
+  background-color:#7765E3;
+  border: 2px solid #7765E3;
   color: white;
   cursor: pointer;
   padding: 5px; 
@@ -305,7 +305,7 @@ header.major:after {
 }
 
 #myBtn:hover {
-  background-color:#fcda02;
+  background-color:#3B60E4;
   border: 2px solid white; 
 }
 #myBtn i:hover {

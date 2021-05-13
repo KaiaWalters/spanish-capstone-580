@@ -57,6 +57,6 @@ export default {
 @import "/src/assets/css/noscript.css";
 
 #footer {
-  background-color:#ae8e5d;
+  background-color: #704a28;
 }
 </style>
