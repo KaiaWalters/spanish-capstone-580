@@ -47,7 +47,6 @@
             >
           </li>
         </ul>
-      <a class="highlight" href="https://secure.actblue.com/donate/nikkia4boston">DONATE</a>
     </ul>
   </div>
 </template>
