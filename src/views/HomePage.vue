@@ -12,7 +12,7 @@
             <div class="col-12 col-12-medium">
               <header class="major">
                 <h2 class="m13">
-                  Camila de la Vega Maldornado
+                  Camila de la Vega Maldonado
                 </h2>
               </header>
               <p>Interpreter | Transcreator | Translator | Writer</p>

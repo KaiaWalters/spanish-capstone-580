@@ -12,10 +12,10 @@
             <div class="col-12 col-12-medium">
               <header class="major">
                 <h2 class="m13">
-                  Camila de la Vega Maldornado
+                  Camila de la Vega Maldonado
                 </h2>
               </header>
-              <p>Interpreter | Transcreator | Translator | Writer</p>
+              <p> Intérprete | Transcreadora | Traductora | Escritora</p>
               <img style="border: 2px solid black; height: 400px; width: 400px; margin-bottom:30px; " src="../assets/css/images/Camila.jpeg" alt="">
               <a href="mailto:me@camiladelavegamaldonado.com" class="button wide primary" target="_blank">Learn More</a>
               <p>fuerza. camila se presenta al mundo con una fuerza en color, auténtica y creativa. su arte se nutre de su práctica de traducción y transcreación con el inglés, el español y todos sus dialectos desviados.como facilitadora de espacios con mente intencional y de principiante, defiende un mundo en el que el cambio, el crecimiento y la posibilidad no se buscan, sino que se afirman con vigilancia a través de su trabajo. </p>
@@ -34,7 +34,7 @@
             <div class="col-12 col-12-medium">
               <header class="major">
                 <h2 class="m13">
-                  About Me
+                  Ponte en Contacto
                 </h2>
               </header>
               <p>camila de la vega maldonado es una traductora, transcreadora, intérprete, escritora, y profesional en las industrias de comunicación y creatividad. su trabajo ha aparecido en ámbitos como el museo de artes finas-boston y en el boston globe y pronto será publicado internacionalmente. será licenciada en estudios latinoamericanos e ibéricos con especialización en traducción, y tiene estudios adicionales en las ciencias políticas y los estudios nativo sobre los nativos americanos e indígenas. ha recibido reconocimientos como la beca de elizabeth bussiere, la beca beacon para el éxito estudiantil, así como la beca de acción cívica, entre otros. 

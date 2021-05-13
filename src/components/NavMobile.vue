@@ -2,42 +2,51 @@
   <div id="navigation-mobile">
     <i @click="toggleNavMenu()" class="fas fa-bars"></i>
     <h1 v-if="isActive">
-      <router-link @click="toggleNavMenu()" :to="{name:'Home'}">NIKKIA JEAN-CHARLES</router-link>
+      <router-link @click="toggleNavMenu()" :to="{name:'Home'}">Camila de la Vega Maldonado</router-link>
     </h1>
     <ul v-bind:class="[isActive ? 'hideMenu' : 'showMenu']">
-      <router-link @click="toggleNavMenu()" :to="{name:'Home'}">MEET NIKKIA</router-link>
-      <li @click="toggleDropDown()" v-bind:class="[display ? 'showDrop' : 'hideDrop']">PLATFORM</li> 
-      <div class="platform" v-if="display">
-         <router-link :to="{name:'Issues'}">Issues</router-link>
-          <a href="https://actionnetwork.org/user_files/user_files/000/054/797/original/accountability_pledge_(4).pdf">Accountability Pledge</a>
-      </div>
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSdbAr151anh7MYOuYqnFH14b3n9S1H7NpVzTN-EMiLKjrJcGQ/viewform?usp=pp_url">JOIN US</a>
-    <ul class="icons">
-        <li>
-          <a
-            href="https://twitter.com/Nikkia4Boston"
-            class="icon brands alt fa-twitter"
-            ><span class="label">Twitter</span></a
-          >
-        </li>
-        <!-- <li>
-          <a
-            href="https://www.instagram.com/nikkia4boston/"
-            class="icon brands alt fa-facebook-f"
-            ><span class="label">Facebook</span></a
-          >
-        </li> -->
-        <li>
-          <a href="https://www.instagram.com/nikkia4boston/" class="icon brands alt fa-instagram"
-            ><span class="label">Instagram</span></a
-          >
-        </li>
-        <li>
-          <a href="mailto:nikkiajeancharles@gmail.com" class="icon solid alt fa-envelope"
-            ><span class="label">Email</span></a
-          >
-        </li>
-      </ul>
+      <router-link :to="{name:'Home'}">Mission</router-link>
+          <router-link :to="{name:'Home'}">About</router-link>
+          <router-link :to="{name:'Home'}">Portfolio</router-link>
+           <router-link :to="{name:'Home'}">Contact me</router-link>
+           <router-link :to="{name:'HomeSpan'}">Espanol</router-link>
+      
+        <ul class="icons">
+          <li>
+            <a
+              href="https://twitter.com/dontuevrtellme"
+              class="icon brands alt fa-twitter"
+              target="_blank"
+              ><span class="label">Twitter</span></a
+            >
+          </li>
+          <!-- <li>
+            <a
+              href="https://www.instagram.com/nikkia4boston/"
+              class="icon brands alt fa-facebook-f"
+              ><span class="label">Facebook</span></a
+            >
+          </li> -->
+          <li>
+            <a href="https://www.instagram.com/dontyouevertellme/" class="icon brands alt fa-instagram"
+            target="_blank"
+              ><span class="label">Instagram</span></a
+            >
+          </li>
+          <li>
+            <a href="mailto:me@camiladelavegamaldonado.com" class="icon solid alt fa-envelope"
+            target="_blank"
+              ><span class="label">Email</span></a
+            >
+          </li>
+
+           <li>
+            <a href="https://www.linkedin.com/in/camiladelavegamaldonado/" style="font-size:30px;" class="fab fa-linkedin"
+            target="_blank"
+              ></a
+            >
+          </li>
+        </ul>
       <a class="highlight" href="https://secure.actblue.com/donate/nikkia4boston">DONATE</a>
     </ul>
   </div>
@@ -65,7 +74,7 @@ export default {
 
 <style lang="css" scoped>
 ul a ,li {
-  color: #ea8700; 
+  color: #ae8e5d; 
   margin-bottom: 25px;
 
   padding: 0px; 
@@ -106,7 +115,7 @@ ul a ,li {
 
   i {
     font-size: 30px;
-    color: #8b0c0e;
+    color: #ae8e5d;
     margin-right: 3px;
   }
 
@@ -127,7 +136,7 @@ ul a ,li {
       justify-self: center;
       align-items: center;
       flex-direction: column;
-      color: #ea8700; 
+      color: #ae8e5d; 
       font-size: 1.5rem;
       font-weight: bold;
       margin-bottom: 25px;
@@ -143,7 +152,7 @@ ul a ,li {
   }
 
   #navigation-mobile .highlight {
-    background-color: #8b0c0e;
+    background-color: #ae8e5d;
     color: white;
     padding: 20px 70px 20px 70px;
     border-bottom: none;
