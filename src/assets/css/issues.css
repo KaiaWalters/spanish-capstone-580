@@ -1,0 +1,13 @@
+#issues .container div {
+    margin-bottom: 70px; 
+}
+#issueNav {
+    padding-bottom: 20px;
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+}
+
+#issueNav  .container {
+    margin-left: 100px;
+}
