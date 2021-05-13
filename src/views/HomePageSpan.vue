@@ -15,17 +15,10 @@
                   Camila de la Vega Maldornado
                 </h2>
               </header>
-              <p>Artist | Activist | Translator | Icon</p>
+              <p>Interpreter | Transcreator | Translator | Writer</p>
               <p v-on: activateTranslationMode="activateTranslationMode($emit)" v-if="translationMode"  >pooooooppppppp</p>
-              <img style="border: 2px solid black; height: 100px; width: 100px;" src="" alt="">
-              <p>
-                camila de la vega maldonado is a translator, transcreator, interpreter, writer, communications and creative professional. their work has appeared in spaces such as the museum of fine arts--boston and the boston globe and is soon to be internationally published. they hold a b.a. in latin american and iberian studies with a concentration in translation, political science and native american and indigenous studies. they’ve received accolades such as the elizabeth bussiere scholarship, the beacon student success fellowship, as well as the civic action fellowship among others. 
-
-                as a translator, transcreator, and interpreter, camila has worked with law firms, community organizers and activists, ensuring language access and accuracy. as a creative professional with roots in language, they’ve worked with artists such as optic bloom, collectives such as allyoucaneat, and organizations such as safe and the black economic council of massachusetts. they are currently a student at the umass boston with positions held in the native american student association, the student equity and access team and the restorative justice commission. in addition to their studies, camila seeks to publish her first translation of the text, recovery dharma. 
-
-                few things bring camila more joy than being by water, in the mountains, and/or with their beloved black, indigenous, and femme of color family. 
-
-              </p>
+              <img style="border: 2px solid black; height: 400px; width: 400px; margin-bottom:30px; " src="../assets/css/images/Camila.jpeg" alt="">
+              <p>force. camila meets the world with colorful authentic and creative force. their art is grounded in their translation and transcreation practice with english, spanish, and all of their deviant dialects. as a facilitator of spaces with intentionality and a beginner mind, they stand for a world where change, growth and possibility are not sought but vigilantly upheld through their work.</p>
               <router-link :to="{name:'Issues'}"><a href="#" class="button primary">Learn More</a></router-link>
             </div>
           </div>
@@ -42,11 +35,14 @@
             <div class="col-12 col-12-medium">
               <header class="major">
                 <h2 class="m13">
-                  Mission
+                  About Me
                 </h2>
               </header>
-              <p>
-                force. camila meets the world with colorful authentic and creative force. their art is grounded in their translation and transcreation practice with english, spanish, and all of their deviant dialects. as a facilitator of spaces with intentionality and a beginner mind, they stand for a world where change, growth and possibility are not sought but vigilantly upheld through their work. 
+              <p>Camila de la Vega Maldonado is a translator, transcreator, interpreter, writer, communications and creative professional. their work has appeared in spaces such as the museum of fine arts--boston and the boston globe and is soon to be internationally published. they hold a b.a. in latin american and iberian studies with a concentration in translation, political science and native american and indigenous studies. they’ve received accolades such as the elizabeth bussiere scholarship, the beacon student success fellowship, as well as the civic action fellowship among others. 
+
+              as a translator, transcreator, and interpreter, camila has worked with law firms, community organizers and activists, ensuring language access and accuracy. as a creative professional with roots in language, they’ve worked with artists such as optic bloom, collectives such as allyoucaneat, and organizations such as safe and the black economic council of massachusetts. they are currently a student at the umass boston with positions held in the native american student association, the student equity and access team and the restorative justice commission. in addition to their studies, camila seeks to publish her first translation of the text, recovery dharma. 
+
+              few things bring camila more joy than being by water, in the mountains, and/or with their beloved black, indigenous, and femme of color family. 
               </p>
             </div>
           </div>
@@ -66,9 +62,19 @@
                   Portfolio
                 </h2>
               </header>
-              <p>
-               Lorem ipsum dolor sit amet consectetur adipisicing elit. At accusamus unde tempore ea dolores quia atque cum sequi odit? Dignissimos sed quaerat, architecto non vel tenetur vero ullam aliquid laudantium.
-              </p>
+             
+              <div class="portRow">
+                <div class=" portfolioA col-6 col-12-medium"> 
+                  <p>Indigenous transborder communities and the (f)utility of borders</p>
+                  <p>IMMIGRANT-POWERED ART STUDIO LAUNCHES AFFORDABLE HOME DECOR LINE: DONOSO STUDIO EN CASA </p>
+                  <p>“Viviendo sin límites”</p>
+                </div>
+                <div class="portfolioB col-6 col-12-medium"> 
+                  <p>“As borders between Latin American nation-states have been shut because of the Covid-19 pandemic, transborder indigenous communities resisted the counterproductive fragmentation of their territories — and continued to question the general logic of borders and state-centric sovereignty”. Read Camila’s full transcreation here.</p>
+                  <p>“Justo a  tiempo  para  las  fiestas, el  artista Francisco Donoso lanza  'Estudio Donoso en Casa', su  primera  línea  de  decoración  para  el hogar  con manteles, fundas  de  almohada,  manteles individuales  y  caminos  de  mesa,  todos  a  un  precio económico,  hechos  a  mano,  y  diseñados  en  parte para  explorar  las  nociones  de  pertenencia, atrapamiento  y  desplazamiento  dentro  de  la experiencia  de  los  inmigrantes.“ Read Camila’s full translation here.</p>
+                  <p>“Family is very important and it’s the best thing you could do. No success in life is worth familial failure. So I encourage you all to know that you can do it and that it’s possible.” Read Camila’s full translation here.</p>
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -153,20 +159,24 @@ export default {
 };
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-/* @import "/src/assets/css/main.css";
-@import "/src/assets/css/noscript.css";
-@font-face {
-  font-family: "Hebrew Sans Bold";
-  src:
-  url("/./../../OpenSansHebrewCondensed-Bold.ttf") format(".tff")
+
+.portfolioA {
+  border-right: 2px solid black; 
+  background-color:yellow;
+  display: inline-block;
+  width:50%;
+  padding:15px;
+  
 }
-@font-face {
-  font-family: "Hebrew Sans Light";
-  src:
-  url("/./../../OpenSansHebrewCondensed-Light.ttf") format(".tff")
-} */
+.portfolioB {
+  border-left: 2px solid black; 
+  display: inline-block;
+    background-color: red;
+
+  width:50%;
+  padding: 15px;
+}
 
 #start {
   margin-top: 100px; 
@@ -183,6 +193,7 @@ body {
   background-color: white;
   box-shadow: none !important;
   color: #ea8700 !important;
+  border: 2px solid #ea8700 ;
   font-family: "Josefin Sans" !important;
 }
 input[type="submit"].primary:hover,

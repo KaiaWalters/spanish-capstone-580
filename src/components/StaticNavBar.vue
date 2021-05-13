@@ -8,7 +8,7 @@
               <router-link :to="{name:'Home'}">Mission</router-link>
               <router-link :to="{name:'Home'}">Bio</router-link>
               <router-link :to="{name:'Home'}">Portfolio</router-link>
-              <router-link :to="{name:'HomeSpanish'}">Espanol</router-link>
+              <router-link :to="{name:'HomeSpan'}">Espanol</router-link>
         </div>
     </div>
     <div @mouseover="display = true"

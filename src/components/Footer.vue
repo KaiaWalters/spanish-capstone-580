@@ -1,12 +1,12 @@
 <template>
      <section id="footer">
         <div>
-          <span>Stay connected with Nikkia</span>
+          <span>Stay connected with Camila</span>
         </div>
         <ul class="icons">
           <li>
             <a
-              href="https://twitter.com/Nikkia4Boston"
+              href="#"
               class="icon brands alt fa-twitter"
               target="_blank"
               ><span class="label">Twitter</span></a
@@ -20,20 +20,20 @@
             >
           </li> -->
           <li>
-            <a href="https://www.instagram.com/nikkia4boston/" class="icon brands alt fa-instagram"
+            <a href="#" class="icon brands alt fa-instagram"
             target="_blank"
               ><span class="label">Instagram</span></a
             >
           </li>
           <li>
-            <a href="mailto:nikkiajeancharles@gmail.com" class="icon solid alt fa-envelope"
+            <a href="#" class="icon solid alt fa-envelope"
             target="_blank"
               ><span class="label">Email</span></a
             >
           </li>
         </ul>
         <ul class="copyright">
-          <li>&copy;Paid for by the Jean-Charles Committee</li>
+          <li>&copy;Capstone Project Spanish 580</li>
           <li><a href="https://linktr.ee/kwalters01" target="_blank">Developed by Kaia Walters</a></li>
         </ul>
       </section>
