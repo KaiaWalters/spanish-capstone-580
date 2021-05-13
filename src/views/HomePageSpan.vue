@@ -17,8 +17,8 @@
               </header>
               <p>Interpreter | Transcreator | Translator | Writer</p>
               <img style="border: 2px solid black; height: 400px; width: 400px; margin-bottom:30px; " src="../assets/css/images/Camila.jpeg" alt="">
-              <p>force. camila meets the world with colorful authentic and creative force. their art is grounded in their translation and transcreation practice with english, spanish, and all of their deviant dialects. as a facilitator of spaces with intentionality and a beginner mind, they stand for a world where change, growth and possibility are not sought but vigilantly upheld through their work.</p>
               <a href="mailto:me@camiladelavegamaldonado.com" class="button wide primary" target="_blank">Learn More</a>
+              <p>fuerza. camila se presenta al mundo con una fuerza en color, auténtica y creativa. su arte se nutre de su práctica de traducción y transcreación con el inglés, el español y todos sus dialectos desviados.como facilitadora de espacios con mente intencional y de principiante, defiende un mundo en el que el cambio, el crecimiento y la posibilidad no se buscan, sino que se afirman con vigilancia a través de su trabajo. </p>
             </div>
           </div>
         </div>
@@ -37,11 +37,11 @@
                   About Me
                 </h2>
               </header>
-              <p>Camila de la Vega Maldonado is a translator, transcreator, interpreter, writer, communications and creative professional. their work has appeared in spaces such as the museum of fine arts--boston and the boston globe and is soon to be internationally published. they hold a b.a. in latin american and iberian studies with a concentration in translation, political science and native american and indigenous studies. they’ve received accolades such as the elizabeth bussiere scholarship, the beacon student success fellowship, as well as the civic action fellowship among others. 
+              <p>camila de la vega maldonado es una traductora, transcreadora, intérprete, escritora, y profesional en las industrias de comunicación y creatividad. su trabajo ha aparecido en ámbitos como el museo de artes finas-boston y en el boston globe y pronto será publicado internacionalmente. será licenciada en estudios latinoamericanos e ibéricos con especialización en traducción, y tiene estudios adicionales en las ciencias políticas y los estudios nativo sobre los nativos americanos e indígenas. ha recibido reconocimientos como la beca de elizabeth bussiere, la beca beacon para el éxito estudiantil, así como la beca de acción cívica, entre otros. 
 
-              as a translator, transcreator, and interpreter, camila has worked with law firms, community organizers and activists, ensuring language access and accuracy. as a creative professional with roots in language, they’ve worked with artists such as optic bloom, collectives such as allyoucaneat, and organizations such as safe and the black economic council of massachusetts. they are currently a student at the umass boston with positions held in the native american student association, the student equity and access team and the restorative justice commission. in addition to their studies, camila seeks to publish her first translation of the text, recovery dharma. 
+              como traductora, transcreadora e intérprete, camila ha trabajado con firmas de abogados, organizadores comunitarios y activistas, asegurando el acceso y la precisión del lenguaje. como profesional creativa con raíces en el lenguaje, ha trabajado con artistas como optic bloom, colectivos como allyoucaneat, y organizaciones como safe y el consejo económico negro de massachusetts. actualmente es estudiante en la umass boston y ocupa cargos en la asociación de estudiantes nativos americanos, en el equipo de equidad y acceso estudiantil y en la comisión de justicia restaurativa. además de sus estudios, camila busca publicar su primera traducción del texto recovery dharma. 
 
-              few things bring camila more joy than being by water, in the mountains, and/or with their beloved black, indigenous, and femme of color family. 
+              pocas cosas traen a camila más alegría que estar junto al agua, en las montañas, y/o con su querida familia negra, indígena y de mujeres de color. 
               </p>
             </div>
           </div>
@@ -69,9 +69,9 @@
                   <p class="lastTitle">“Viviendo sin límites”</p>
                 </div>
                 <div class="portfolioB col-6 col-12-medium"> 
-                  <p>“As borders between Latin American nation-states have been shut because of the Covid-19 pandemic, transborder indigenous communities resisted the counterproductive fragmentation of their territories — and continued to question the general logic of borders and state-centric sovereignty”. Read Camila’s full transcreation here.</p>
-                  <p>“Justo a  tiempo  para  las  fiestas, el  artista Francisco Donoso lanza  'Estudio Donoso en Casa', su  primera  línea  de  decoración  para  el hogar  con manteles, fundas  de  almohada,  manteles individuales  y  caminos  de  mesa,  todos  a  un  precio económico,  hechos  a  mano,  y  diseñados  en  parte para  explorar  las  nociones  de  pertenencia, atrapamiento  y  desplazamiento  dentro  de  la experiencia  de  los  inmigrantes.“ Read Camila’s full translation here.</p>
-                  <p>“Family is very important and it’s the best thing you could do. No success in life is worth familial failure. So I encourage you all to know that you can do it and that it’s possible.” Read Camila’s full translation here.</p>
+                  <p>“As borders between Latin American nation-states have been shut because of the Covid-19 pandemic, transborder indigenous communities resisted the counterproductive fragmentation of their territories — and continued to question the general logic of borders and state-centric sovereignty”. Read Camila’s full transcreation here  <a href=" https://progressive.international/wire/2021-04-30-indigenous-transborder-communities-and-the-f-utility-of-borders/en">here</a>.</p>
+                  <p>“Justo a  tiempo  para  las  fiestas, el  artista Francisco Donoso lanza  'Estudio Donoso en Casa', su  primera  línea  de  decoración  para  el hogar  con manteles, fundas  de  almohada,  manteles individuales  y  caminos  de  mesa,  todos  a  un  precio económico,  hechos  a  mano,  y  diseñados  en  parte para  explorar  las  nociones  de  pertenencia, atrapamiento  y  desplazamiento  dentro  de  la experiencia  de  los  inmigrantes.“ Read Camila’s full translation <a href="https://docs.google.com/document/d/1JujdN8sBjXRldcp2jneAQi9P8R6VEcbMZ0ftHXlJFvI/edit">here</a>.</p> 
+                  <p>“Family is very important and it’s the best thing you could do. No success in life is worth familial failure. So I encourage you all to know that you can do it and that it’s possible.” Read Camila’s full translation <a href="https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:437798a6-f4d2-48d3-b2a4-c30c9ab3499f">here</a>.</p>
                 </div>
               </div>
             </div>
