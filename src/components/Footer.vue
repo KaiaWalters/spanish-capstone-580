@@ -6,7 +6,7 @@
         <ul class="icons">
           <li>
             <a
-              href="#"
+              href="https://twitter.com/dontuevrtellme"
               class="icon brands alt fa-twitter"
               target="_blank"
               ><span class="label">Twitter</span></a
@@ -20,15 +20,22 @@
             >
           </li> -->
           <li>
-            <a href="#" class="icon brands alt fa-instagram"
+            <a href="https://www.instagram.com/dontyouevertellme/" class="icon brands alt fa-instagram"
             target="_blank"
               ><span class="label">Instagram</span></a
             >
           </li>
           <li>
-            <a href="#" class="icon solid alt fa-envelope"
+            <a href="mailto:me@camiladelavegamaldonado.com" class="icon solid alt fa-envelope"
             target="_blank"
               ><span class="label">Email</span></a
+            >
+          </li>
+
+           <li>
+            <a href="https://www.linkedin.com/in/camiladelavegamaldonado/" style="font-size:30px;" class="fab fa-linkedin"
+            target="_blank"
+              ></a
             >
           </li>
         </ul>

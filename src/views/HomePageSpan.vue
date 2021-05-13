@@ -16,10 +16,9 @@
                 </h2>
               </header>
               <p>Interpreter | Transcreator | Translator | Writer</p>
-              <p v-on: activateTranslationMode="activateTranslationMode($emit)" v-if="translationMode"  >pooooooppppppp</p>
               <img style="border: 2px solid black; height: 400px; width: 400px; margin-bottom:30px; " src="../assets/css/images/Camila.jpeg" alt="">
               <p>force. camila meets the world with colorful authentic and creative force. their art is grounded in their translation and transcreation practice with english, spanish, and all of their deviant dialects. as a facilitator of spaces with intentionality and a beginner mind, they stand for a world where change, growth and possibility are not sought but vigilantly upheld through their work.</p>
-              <router-link :to="{name:'Issues'}"><a href="#" class="button primary">Learn More</a></router-link>
+              <a href="mailto:me@camiladelavegamaldonado.com" class="button wide primary" target="_blank">Learn More</a>
             </div>
           </div>
         </div>
@@ -63,11 +62,11 @@
                 </h2>
               </header>
              
-              <div class="portRow">
+              <div class="portRow" style="display:flex; ">
                 <div class=" portfolioA col-6 col-12-medium"> 
                   <p>Indigenous transborder communities and the (f)utility of borders</p>
                   <p>IMMIGRANT-POWERED ART STUDIO LAUNCHES AFFORDABLE HOME DECOR LINE: DONOSO STUDIO EN CASA </p>
-                  <p>“Viviendo sin límites”</p>
+                  <p class="lastTitle">“Viviendo sin límites”</p>
                 </div>
                 <div class="portfolioB col-6 col-12-medium"> 
                   <p>“As borders between Latin American nation-states have been shut because of the Covid-19 pandemic, transborder indigenous communities resisted the counterproductive fragmentation of their territories — and continued to question the general logic of borders and state-centric sovereignty”. Read Camila’s full transcreation here.</p>
@@ -84,10 +83,10 @@
       <section id="four" class="main style1 special">
         <div class="container">
           <header class="major">
-            <h2>WANT TO GET INVOLVED?</h2>
+            <h2>WANT TO CONNECT?</h2>
           </header>
           <ul class="actions special">
-            <li><a href="mailto:nikkiajeancharles@gmail.com" class="button wide primary" target="_blank">Contact Us</a></li>
+            <li><a href="mailto:me@camiladelavegamaldonado.com" class="button wide primary" target="_blank">Contact Me</a></li>
           </ul>
         </div>
       </section>
@@ -161,21 +160,36 @@ export default {
 
 <style scoped>
 
+.lastTitle {
+    margin-left: 185px;
+    margin-top: 220px !important;
+}
+
 .portfolioA {
-  border-right: 2px solid black; 
-  background-color:yellow;
   display: inline-block;
   width:50%;
   padding:15px;
+  margin-bottom:30px; 
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
   
 }
-.portfolioB {
-  border-left: 2px solid black; 
-  display: inline-block;
-    background-color: red;
+.portfolioA p {
+  margin-top: 110px;
+  /* margin-bottom: 80px; */
 
-  width:50%;
+  padding-top:20;
+
+}
+.portfolioB {
+  border-left: 3px solid black; 
+  display: inline-block;
   padding: 15px;
+    width:50%;
+   display: flex;
+  align-items: flex-start;
+  flex-direction: column;
 }
 
 #start {
@@ -201,7 +215,7 @@ input[type="reset"].primary:hover,
 input[type="button"].primary:hover,
 button.primary:hover,
 .button.primary:hover {
-  background-color: #8b0c0e;
+  background-color: #ae8e5d;
   color: white !important;
 }
 
@@ -210,7 +224,7 @@ input[type="reset"].primary:active,
 input[type="button"].primary:active,
 button.primary:active,
 .button.primary:active {
-  background-color: #8b0c0e;
+  background-color: #ae8e5d;
   color: black !important;
 }
 .button.wide:hover{
@@ -218,7 +232,7 @@ button.primary:active,
 }
 .button.wide.primary:hover{
   color: white !important;
-  background-color: #8b0c0e !important;
+  background-color: #ae8e5d !important;
 }
 .major h2 {
   font-family: "Josefin Sans" !important;

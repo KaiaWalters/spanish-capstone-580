@@ -215,7 +215,7 @@ input[type="reset"].primary:hover,
 input[type="button"].primary:hover,
 button.primary:hover,
 .button.primary:hover {
-  background-color: #8b0c0e;
+  background-color: #ae8e5d;
   color: white !important;
 }
 
@@ -224,7 +224,7 @@ input[type="reset"].primary:active,
 input[type="button"].primary:active,
 button.primary:active,
 .button.primary:active {
-  background-color: #8b0c0e;
+  background-color: #ae8e5d;
   color: black !important;
 }
 .button.wide:hover{
@@ -232,7 +232,7 @@ button.primary:active,
 }
 .button.wide.primary:hover{
   color: white !important;
-  background-color: #8b0c0e !important;
+  background-color: #ae8e5d !important;
 }
 .major h2 {
   font-family: "Josefin Sans" !important;

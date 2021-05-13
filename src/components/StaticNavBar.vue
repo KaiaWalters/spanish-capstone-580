@@ -4,11 +4,11 @@
     <div v-if="!mobileview" id="navbar">
         <router-link style="padding:24px;" :to="{name:'Home'}"><span>Camila de la Vega Maldonado</span></router-link>
         <div id="navbar-right">
-              <router-link :to="{name:'Home'}">Contact me</router-link>
-              <router-link :to="{name:'Home'}">Mission</router-link>
-              <router-link :to="{name:'Home'}">Bio</router-link>
-              <router-link :to="{name:'Home'}">Portfolio</router-link>
-              <router-link :to="{name:'HomeSpan'}">Espanol</router-link>
+           <router-link :to="{name:'Home'}">Mission</router-link>
+          <router-link :to="{name:'Home'}">About</router-link>
+          <router-link :to="{name:'Home'}">Portfolio</router-link>
+           <router-link :to="{name:'Home'}">Contact me</router-link>
+           <router-link :to="{name:'HomeSpan'}">Espanol</router-link>
         </div>
     </div>
     <div @mouseover="display = true"
