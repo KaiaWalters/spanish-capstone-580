@@ -106,7 +106,7 @@ ul a ,li {
   h1 {
       text-align: center;
       width: 100%;
-      color: #ea8700; 
+      color: #ae8e5d; 
       font-weight: bold;
       margin: 0px;
       font-size: 1.5em;
